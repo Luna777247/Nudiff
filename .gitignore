@@ -8,3 +8,5 @@ results/
 *.npy
 *.tif
 *.png
+hover_net/
+nudiff/
